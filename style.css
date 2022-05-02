@@ -1,0 +1,9 @@
+.lemon{
+    background: url(./img/lemon.jpg);
+    width: 234px;
+    height: 252px;
+    border-top-right-radius: 61%;
+    border-bottom-left-radius: 61%;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 7%;
+}
